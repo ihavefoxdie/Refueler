@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refueler", "Refueler\Refueler.csproj", "{98E70D88-1ABD-475B-BCE8-34055EFAF554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E70D88-1ABD-475B-BCE8-34055EFAF554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E70D88-1ABD-475B-BCE8-34055EFAF554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E70D88-1ABD-475B-BCE8-34055EFAF554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E70D88-1ABD-475B-BCE8-34055EFAF554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97BF7DE4-8F42-40C1-8951-2279869C06E1}
+	EndGlobalSection
+EndGlobal
